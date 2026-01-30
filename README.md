@@ -1,1 +1,1 @@
-# AI-powered-crop-yield-prediction-and-optimization
+# AI-Powered-Crop-Yield-Prediction-and-Optimization
